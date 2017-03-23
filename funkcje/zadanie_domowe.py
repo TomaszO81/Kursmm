@@ -1,0 +1,1 @@
+#program bede pytac o podanie imienia
